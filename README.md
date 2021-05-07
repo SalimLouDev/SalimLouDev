@@ -25,7 +25,7 @@ My passion for computer science lies in developing ideas and produce them into r
 
 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/);
+- 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/)
 - 📝 [Resume](https://drive.google.com/file/d/1dM34PxtqYWgjnd291c39rhJg5gqT_yhG/view?usp=sharing)
 <br />
 
