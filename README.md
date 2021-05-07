@@ -1,8 +1,5 @@
 # Hello there, I'm [Salim !](https://SalimLouDev.github.io)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<a href="">
-  <img align="left" alt="Salim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/salimloudev/">
   <img align="left" alt="Salim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -26,6 +23,10 @@ Hi, I'm salim loucif an artificial intelligence student and a software engineer 
 
 My passion for computer science lies in developing ideas and produce them into reality.
 
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/);
+- 📝 [Resume](https://drive.google.com/file/d/1dM34PxtqYWgjnd291c39rhJg5gqT_yhG/view?usp=sharing)
 <br />
 
 
