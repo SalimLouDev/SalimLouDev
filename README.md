@@ -24,7 +24,7 @@
 
 
 
-![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalimLouDev&theme=merko&show_icons=true)
+![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalimLouDev&show_icons=true)
 
 
 
