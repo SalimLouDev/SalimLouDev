@@ -32,9 +32,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimLouDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/SalimLouDev/SalimLouDev.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalimLouDev&repo=News-App-Akhbari.github.io&theme=material-palenight" />
-</a>
