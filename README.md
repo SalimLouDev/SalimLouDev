@@ -21,9 +21,11 @@
 
 
 <br />
+<p>
 Hi, I'm salim loucif an artificial intelligence student and a software engineer freelancer.
 
 My passion for computer science lies in developing ideas and produce them into reality.
+</p>
 
 <br />
 
