@@ -44,10 +44,12 @@ My passion for computer science lies in developing ideas and produce them into r
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  
 
-<center>
+<div align="center">
+
 
 ![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalimLouDev&theme=merko&show_icons=true&count_private=true)
 
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimLouDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -58,4 +60,3 @@ My passion for computer science lies in developing ideas and produce them into r
 <br>
 <figure><embed src="https://wakatime.com/share/@SalimLouDev/7fc10494-944f-43d9-9822-be2ee1a5a444.svg"></embed></figure>
 
-</center>
