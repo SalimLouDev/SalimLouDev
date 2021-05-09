@@ -6,6 +6,7 @@
 
 <a href="https://www.facebook.com/salimloudev/">
   <img align="left" alt="Salim's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  
 </a>
 <a href="https://www.instagram.com/salimloudev/">
   <img align="left" alt="Salim's Facebook" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
@@ -48,3 +49,25 @@ My passion for computer science lies in developing ideas and produce them into r
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimLouDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKANAME }}
+          GH_TOKEN: ${{ secrets.GITNAME }}
+
+  
