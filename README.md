@@ -50,26 +50,6 @@ My passion for computer science lies in developing ideas and produce them into r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimLouDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!--
-```yml
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Profile Readme Development Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@V3
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKANAME }}
-          GH_TOKEN: ${{ secrets.GITNAME }}
-```-->
-<figure><embed src="https://wakatime.com/share/@SalimLouDev/5a1d5bca-7a73-4f63-bda8-3e646a8e64dc.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@SalimLouDev/52b38cc2-d217-451a-b213-e7df9e8a3c6d.svg"></embed></figure>
+<img src="https://wakatime.com/share/@SalimLouDev/5a1d5bca-7a73-4f63-bda8-3e646a8e64dc.svg"></img>
+<br>
+<img src="https://wakatime.com/share/@SalimLouDev/52b38cc2-d217-451a-b213-e7df9e8a3c6d.svg"></img>
