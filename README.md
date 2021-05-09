@@ -70,5 +70,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKANAME }}
           GH_TOKEN: ${{ secrets.GITNAME }}
-```
-  >
+```-->
+<figure><embed src="https://wakatime.com/share/@SalimLouDev/5a1d5bca-7a73-4f63-bda8-3e646a8e64dc.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@SalimLouDev/52b38cc2-d217-451a-b213-e7df9e8a3c6d.svg"></embed></figure>
