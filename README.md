@@ -52,7 +52,7 @@ My passion for computer science lies in developing ideas and produce them into r
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<!--
 ```yml
 name: Waka Readme
 
@@ -71,4 +71,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKANAME }}
           GH_TOKEN: ${{ secrets.GITNAME }}
 ```
-  
+  >
