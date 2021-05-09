@@ -53,6 +53,7 @@ My passion for computer science lies in developing ideas and produce them into r
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+```yml
 name: Waka Readme
 
 on:
@@ -62,12 +63,12 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKANAME }}
           GH_TOKEN: ${{ secrets.GITNAME }}
-
+```
   
