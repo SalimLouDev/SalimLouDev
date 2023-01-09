@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.facebook.com/salimloudev/">
-  <img align="left" alt="Salim's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Salim's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" />
   
 </a>
 <a href="https://www.instagram.com/salimloudev/">
@@ -15,51 +15,19 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SalimLouDev.SalimLouDev)
-
-
-
 <br />
 
-Hi, I'm salim loucif an artificial intelligence student and a software developer freelancer.
+Hi, my name is Salim and I have a passion for augmented reality and software development. I have been working in these fields for the past 5 years, and have gained a wealth of experience in the process. In addition to my practical experience, I also hold a bachelor's degree in information systems and a master's degree in artificial intelligence. These qualifications have given me a strong foundation in the theories and concepts that underpin these technologies, and have allowed me to approach problems and projects in a systematic and analytical way. I am always looking for new challenges and opportunities to learn and grow, and believe that my diverse set of skills and experiences make me well-suited for a wide range of positions in the field of augmented reality and software development.
 
-My passion for computer science lies in developing ideas and produce them into reality.
-
-
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/)
-- 📝 [Resume](https://drive.google.com/file/d/1dM34PxtqYWgjnd291c39rhJg5gqT_yhG/view?usp=sharing)
-<br />
+- 📝 [Resume](https://drive.google.com/file/d/1QZ1dYt5PtK5vu10BSAfuckuxo_bR0KGy/view?usp=share_link)
+<br /> 
 
+# Stats :
 
-**Languages and Tools:**  
-  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>  
-
-#### Stats :
-
-<div align="center">
-
-
-![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalimLouDev&theme=merko&show_icons=true&count_private=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalimLouDev&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<img src="https://wakatime.com/share/@SalimLouDev/5a1d5bca-7a73-4f63-bda8-3e646a8e64dc.svg"></img>
+<img src="https://wakatime.com/share/@SalimLouDev/abde8466-b775-428f-b554-98144bf1d250.svg"></img>
 <br>
-<img src="https://wakatime.com/share/@SalimLouDev/52b38cc2-d217-451a-b213-e7df9e8a3c6d.svg"></img>
+<img src="https://wakatime.com/share/@SalimLouDev/d620071f-6cb4-4f55-a38b-df2592d02c7c.svg"></img>
 <br>
-<img src="https://wakatime.com/share/@SalimLouDev/7fc10494-944f-43d9-9822-be2ee1a5a444.svg"></img>
-
+<img src="https://wakatime.com/share/@SalimLouDev/7a75861f-78f2-44de-9a8c-dca5389e3491.svg"></img>
