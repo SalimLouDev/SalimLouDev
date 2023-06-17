@@ -12,9 +12,6 @@
   <img align="left" alt="Salim's Facebook" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
 </a>
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SalimLouDev.SalimLouDev)
 <br />
 
 Hi, my name is Salim and I have a passion for augmented reality and software development. I have been working in these fields for the past 5 years, and have gained a wealth of experience in the process. In addition to my practical experience, I also hold a bachelor's degree in information systems and a master's degree in artificial intelligence. These qualifications have given me a strong foundation in the theories and concepts that underpin these technologies, and have allowed me to approach problems and projects in a systematic and analytical way. I am always looking for new challenges and opportunities to learn and grow, and believe that my diverse set of skills and experiences make me well-suited for a wide range of positions in the field of augmented reality and software development.
