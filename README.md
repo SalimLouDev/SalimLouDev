@@ -1,7 +1,7 @@
 # Hello there, I'm [Salim !](https://SalimLouDev.github.io)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 <a href="https://www.linkedin.com/in/salimloudev/">
-  <img align="left" alt="Salim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Salim's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <a href="https://www.facebook.com/salimloudev/">
