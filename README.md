@@ -18,17 +18,13 @@
 
 
 
-Hi, my name is Salim and I have a passion for augmented reality and software development. I have been working in these fields for the past 5 years, and have gained a wealth of experience in the process. In addition to my practical experience, I also hold a bachelor's degree in information systems and a master's degree in artificial intelligence. These qualifications have given me a strong foundation in the theories and concepts that underpin these technologies, and have allowed me to approach problems and projects in a systematic and analytical way. I am always looking for new challenges and opportunities to learn and grow, and believe that my diverse set of skills and experiences make me well-suited for a wide range of positions in the field of augmented reality and software development.
+As a professional deeply rooted in Artificial Intelligence, Augmented Reality, and software development, I bring a robust blend of technical expertise and strategic insight. My academic background in Information Systems and Artificial Intelligence empowers me to design and deploy advanced systems that transform complex workflows into streamlined, automated processes.
+
+I specialize in crafting AI-driven solutions, developing real-time data systems, and creating immersive augmented reality experiences. My work has driven measurable improvements across industries, enhancing efficiency, reducing costs, and elevating user engagement. I thrive in environments that challenge me to innovate, where I can leverage my skills to optimize system performance and deliver high-impact results.
+
+Collaboration is at the core of my approach. I work seamlessly with cross-functional teams, aligning technical solutions with business goals to drive success. My commitment to staying ahead of industry trends ensures that I bring the latest advancements in AI and software development to every project.
+
+Passionate about what I do, I am always exploring new ways to push the boundaries of technology. I am eager to connect with like-minded professionals and contribute to cutting-edge projects that shape the future of technology.
 
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/)
-- 📝 [Resume](https://drive.google.com/file/d/1QZ1dYt5PtK5vu10BSAfuckuxo_bR0KGy/view?usp=share_link)
-<br /> 
-
-# Stats :
-
-<img src="https://wakatime.com/share/@SalimLouDev/abde8466-b775-428f-b554-98144bf1d250.svg"></img>
-<br>
-<img src="https://wakatime.com/share/@SalimLouDev/d620071f-6cb4-4f55-a38b-df2592d02c7c.svg"></img>
-<br>
-<img src="https://wakatime.com/share/@SalimLouDev/7a75861f-78f2-44de-9a8c-dca5389e3491.svg"></img>
