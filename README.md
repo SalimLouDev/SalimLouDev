@@ -139,7 +139,7 @@ I specialize in AI-driven solutions, real-time data systems, and immersive AR ex
 
 ###
 
-<h2 align="left">Stats...</h2>
+<h2 align="left">🔣 Stats...</h2>
 
 ###
 
