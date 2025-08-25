@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/salimloudev/count.svg?"  />
-</div>
-
-###
-
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm [Salim LOUCIF !](https://www.linkedin.com/in/salimloudev/)   🤖🧠👾
 
 
 ###
 
 <h2 align="left">🙋‍♂️ About me...</h2>
-I specialize in AI-driven solutions, real-time data systems that enhance efficiency, reduce costs, and improve user engagement. With a strong academic background and over 7 years of experience, I excel in optimizing workflows and delivering high-impact results across industries. My collaborative approach ensures alignment of technical solutions with business goals, driving innovation and success.
+I specialize in AI-driven solutions, real-time data systems that enhance efficiency, reduce costs, and improve user engagement. With a strong academic background and over 5 years of experience, I excel in optimizing workflows and delivering high-impact results across industries. My collaborative approach ensures alignment of technical solutions with business goals, driving innovation and success.
 
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: [@SalimLouDev](https://www.linkedin.com/in/salimloudev/)
