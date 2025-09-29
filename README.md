@@ -147,10 +147,4 @@ I specialize in AI-driven solutions, real-time data systems that enhance efficie
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1odWk5aGxuaG44aTEwdjZyaDUxYmszZnowbnp4NGdsOTA1N2dmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a2vvvG5nDZ0LYxNh16/giphy.gif"  />
-</div>
-
-###
-
 
