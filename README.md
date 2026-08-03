@@ -7,7 +7,7 @@
 I design and build production-grade AI systems, intelligent automation platforms, and scalable software products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim%20Loucif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salimloudev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-salimloudev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.salimloudev.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-salimloudev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://salimloucif.com/)
 [![SefarAI](https://img.shields.io/badge/SefarAI-AI%20Solutions-6C63FF?style=for-the-badge&logo=openai&logoColor=white)](https://sefarai.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-salimloudev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimloudev)
 
@@ -19,7 +19,7 @@ I design and build production-grade AI systems, intelligent automation platforms
 
 ## About Me
 
-I am an **AI and Software Engineer based in Dubai, UAE**, with an MSc in Artificial Intelligence and more than five years of experience building intelligent software and data-driven products.
+I am an **AI and Software Engineer based in Dubai, UAE**, with an MSc in Artificial Intelligence and more than four years of experience building intelligent software and data-driven products.
 
 My work focuses on transforming complex business processes into reliable, secure, and scalable systems using:
 
