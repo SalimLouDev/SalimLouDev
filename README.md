@@ -7,7 +7,7 @@
 I design and build production-grade AI systems, intelligent automation platforms, and scalable software products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim%20Loucif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salimloudev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-salimloudev.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://salimloucif.com/)
+[![Portfolio](https://img.shields.io/badge/salimloucif.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://salimloucif.com/)
 [![SefarAI](https://img.shields.io/badge/SefarAI-AI%20Solutions-6C63FF?style=for-the-badge&logo=openai&logoColor=white)](https://sefarai.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-salimloudev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salimloudev)
 
