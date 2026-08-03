@@ -244,7 +244,7 @@ The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/salim
 ### Building intelligent systems that solve real business problems.
 
 [LinkedIn](https://www.linkedin.com/in/salimloudev/) ·
-[Portfolio](https://portfolio.salimloudev.com/) ·
+[Portfolio](https://salimloucif.com/) ·
 [SefarAI](https://sefarai.com/) ·
 [GitHub](https://github.com/salimloudev)
 
