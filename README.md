@@ -123,7 +123,7 @@ Developed predictive models and data pipelines for valuation, forecasting, anoma
         A collection of my professional work, technical experience, and selected projects.
       </p>
       <p align="center">
-        <a href="https://portfolio.salimloudev.com/"><strong>View Portfolio →</strong></a>
+        <a href="https://salimloucif.com/"><strong>View Portfolio →</strong></a>
       </p>
     </td>
   </tr>
@@ -220,10 +220,6 @@ Design AI systems that are observable, secure, and maintainable.
 ## GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=salimloudev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Salim's GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimloudev&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Salim's most used languages" />
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=salimloudev&theme=github-compact&hide_border=true&area=true" alt="Salim's contribution activity" />
 
